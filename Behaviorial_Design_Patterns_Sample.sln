@@ -1,9 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{D8DCFE9F-10A7-438E-BE4E-BB6F5A9BDA46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{94233DF4-666A-4E53-8B69-A04EFC0C4786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPract1", "IteratorPract1\IteratorPract1.csproj", "{1E2FD6D2-D002-4BBF-BB84-E7250FB91D35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPract2", "IteratorPract2\IteratorPract2.csproj", "{13ADEE67-D64A-4BD2-A6A6-C95B2477E610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator_ChatRoom", "Mediator\Mediator_ChatRoom.csproj", "{0893D055-6B56-4FF4-9C6A-B80FEE16376B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mediator_ControlTower_Airport", "Mediator_ControlTower_Airport\Mediator_ControlTower_Airport.csproj", "{C2E0310B-FF8F-4A18-951E-7B7BD865FC44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{A65C3AF4-0F08-4B34-8F68-CF712D61E36A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +27,30 @@ Global
 		{D8DCFE9F-10A7-438E-BE4E-BB6F5A9BDA46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8DCFE9F-10A7-438E-BE4E-BB6F5A9BDA46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8DCFE9F-10A7-438E-BE4E-BB6F5A9BDA46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94233DF4-666A-4E53-8B69-A04EFC0C4786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94233DF4-666A-4E53-8B69-A04EFC0C4786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94233DF4-666A-4E53-8B69-A04EFC0C4786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94233DF4-666A-4E53-8B69-A04EFC0C4786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2FD6D2-D002-4BBF-BB84-E7250FB91D35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2FD6D2-D002-4BBF-BB84-E7250FB91D35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2FD6D2-D002-4BBF-BB84-E7250FB91D35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2FD6D2-D002-4BBF-BB84-E7250FB91D35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13ADEE67-D64A-4BD2-A6A6-C95B2477E610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13ADEE67-D64A-4BD2-A6A6-C95B2477E610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13ADEE67-D64A-4BD2-A6A6-C95B2477E610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13ADEE67-D64A-4BD2-A6A6-C95B2477E610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0893D055-6B56-4FF4-9C6A-B80FEE16376B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0893D055-6B56-4FF4-9C6A-B80FEE16376B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0893D055-6B56-4FF4-9C6A-B80FEE16376B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0893D055-6B56-4FF4-9C6A-B80FEE16376B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E0310B-FF8F-4A18-951E-7B7BD865FC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E0310B-FF8F-4A18-951E-7B7BD865FC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E0310B-FF8F-4A18-951E-7B7BD865FC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E0310B-FF8F-4A18-951E-7B7BD865FC44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65C3AF4-0F08-4B34-8F68-CF712D61E36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65C3AF4-0F08-4B34-8F68-CF712D61E36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65C3AF4-0F08-4B34-8F68-CF712D61E36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65C3AF4-0F08-4B34-8F68-CF712D61E36A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
