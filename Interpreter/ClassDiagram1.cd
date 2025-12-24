@@ -8,7 +8,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Interpreter.Numero" BaseTypeListCollapsed="true">
-    <Position X="9.25" Y="2.75" Width="1.5" />
+    <Position X="9" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
       <FileName>IExpresion.cs</FileName>
@@ -16,7 +16,7 @@
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Class Name="Interpreter.Variable" BaseTypeListCollapsed="true">
-    <Position X="4.5" Y="2.75" Width="1.5" />
+    <Position X="3.75" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>IExpresion.cs</FileName>
@@ -24,7 +24,7 @@
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Class Name="Interpreter.Suma" BaseTypeListCollapsed="true">
-    <Position X="6.75" Y="2.75" Width="1.5" />
+    <Position X="6.5" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAABAAAAAAAAgAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
       <FileName>IExpresion.cs</FileName>
@@ -32,7 +32,7 @@
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Class Name="Interpreter.Program" Collapsed="true">
-    <Position X="12.25" Y="2" Width="1.5" />
+    <Position X="13.5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
